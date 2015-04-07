@@ -43,4 +43,6 @@ group :development, :test do
   gem 'spring'
 
   gem "rspec-rails", "~> 2.14.0"
+  gem "jasmine"
+
 end

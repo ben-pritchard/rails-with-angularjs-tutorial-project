@@ -1,7 +1,7 @@
 require 'spec_helper'
 
 describe Restaurant do
-  
+
   before do
     @restaurant = Restaurant.new(name: "Momofuku")
   end
